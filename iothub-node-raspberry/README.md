@@ -13,8 +13,8 @@ This repo contains the source code to help you get familiar with Azure IoT using
 - [Lesson 4: Send cloud-to-device messages](https://azure.microsoft.com/en-us/documentation/articles/iot-hub-raspberry-pi-kit-node-lesson4-send-cloud-to-device-messages/)
 
 About Wiring Pi:
-[Wiring Pi offical web](http://wiringpi.com/)
-[Wiring Pi Repository](https://github.com/WiringPi/)
-[Wiring Pi for Node](https://github.com/WiringPi/WiringPi-Node)
+- [Wiring Pi offical web](http://wiringpi.com/)
+- [Wiring Pi Repository](https://github.com/WiringPi/)
+- [Wiring Pi for Node](https://github.com/WiringPi/WiringPi-Node)
 
 We hope you enjoy the process. Please provide feedback if there's anything that we can improve.
