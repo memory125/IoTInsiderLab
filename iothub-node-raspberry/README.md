@@ -1,7 +1,6 @@
 ---
 services: iot-hub
 platforms: Nodejs
-author: shizn
 ---
 
 # Get Started with Microsoft Azure IoT Raspberry Pi Starter Kit
