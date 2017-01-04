@@ -13,7 +13,3 @@ This repo contains the source code to help you get familiar with Azure IoT using
 - [Lesson 4: Send cloud-to-device messages](https://azure.microsoft.com/en-us/documentation/articles/iot-hub-raspberry-pi-kit-node-lesson4-send-cloud-to-device-messages/)
 
 We hope you enjoy the process. Please provide feedback if there's anything that we can improve.
-
-***
-**Don't have a kit yet?:** Click [here](http://azure.com/iotstarterkits)
-***
