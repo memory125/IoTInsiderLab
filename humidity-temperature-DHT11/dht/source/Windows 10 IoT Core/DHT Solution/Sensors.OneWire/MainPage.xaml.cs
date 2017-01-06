@@ -15,9 +15,9 @@ namespace Sensors.OneWire
 {
 	public sealed partial class MainPage : BindablePage
     {
-        static string iotHubUri = "IoTLabDemo.azure-devices.net";
-        static string deviceKey = "kahkNNM4YnMbgpT5yAK7PXCY9AIppNHKm+PveMG9gLM=";
-        static string deviceId = "Shenzhen-Lab-Demo1";
+        static string iotHubUri = "[Your IoT Hub Hostname]";
+        static string deviceKey = "[Your IoT Device Shared Access Key]";
+        static string deviceId = "[Your IoT Device ID]";
 
         private DeviceClient deviceClient = null;
       
